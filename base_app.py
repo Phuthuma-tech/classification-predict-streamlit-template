@@ -33,7 +33,7 @@ from sklearn.model_selection import train_test_split
 
 import streamlit.components.v1 as components
 import pandas as pd
-import plotly.figure_factory as ff
+
 import matplotlib.pyplot as plt
 import seaborn as sns
 import os
